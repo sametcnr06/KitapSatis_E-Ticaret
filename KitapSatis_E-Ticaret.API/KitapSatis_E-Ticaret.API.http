@@ -1,0 +1,6 @@
+@KitapSatis_E_Ticaret.API_HostAddress = http://localhost:5166
+
+GET {{KitapSatis_E_Ticaret.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
